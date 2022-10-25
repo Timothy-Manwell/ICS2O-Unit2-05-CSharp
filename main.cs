@@ -9,16 +9,16 @@ class Program
     public static void Main(string[] args)
     {
         // This function accepts user input
-        int hours;
-        int rate;
+        double hours;
+        double rate;
         double takeHomeSalary;
         double INCOMETAX;
 
         Console.WriteLine("This program calculates salary and income tax");
         Console.Write("\nEnter number of hours worked: ");
-        hours = Convert.ToInt32(Console.ReadLine());
+        hours = Convert.ToDouble(Console.ReadLine());
         Console.Write("\nEnter hourly rate: ");
-        rate = Convert.ToInt32(Console.ReadLine());
+        rate = Convert.ToDouble(Console.ReadLine());
 
         takeHomeSalary = (hours * rate) * (1.0 - 0.18);
         INCOMETAX = (hours * rate) * 0.18;
