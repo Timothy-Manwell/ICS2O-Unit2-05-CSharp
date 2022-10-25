@@ -4,4 +4,3 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Timothy-Manwell/ICS2O-Unit2-05-CSharp)](https://repl.it/github/Timothy-Manwell/ICS2O-Unit2-05-CSharp)
 
-This site can be found at: [https://timothy-manwell.github.io/ICS2O-Unit2-05-CSharp](https://timothy-manwell.github.io/ICS2O-Unit2-05-CSharp)
